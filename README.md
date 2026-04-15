@@ -30,11 +30,15 @@ led.update();
 ## Estrutura da Biblioteca
 
 Biblioteca Led/
-|
+\
 ├ examples
+\
 ├ scr/
+\
      ├ LED.h
      ├ LED.cpp
 ├ library.json
+\
 ├ LICENSE
+\
 ├ README.md

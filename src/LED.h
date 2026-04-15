@@ -34,7 +34,7 @@ class Led
         uint16_t repeticoes;
 
         /**
-         * @brief Precessa a lógica de piscada do LED
+         * @brief Processa a lógica de piscada do LED
          */
         void funcaoPiscar();
 
